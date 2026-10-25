@@ -1,3 +1,4 @@
+Live Link: https://mini-search-engine-with-inverted-index.ai.studio/
 # Mini Search Engine with Inverted Index
 
 A production-grade full-text search engine built with an **Inverted Index**, **Positional Postings**, **Okapi BM25**, and **TF-IDF Relevance Ranking**.
