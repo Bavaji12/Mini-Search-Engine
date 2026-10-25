@@ -1,0 +1,6 @@
+{
+  "name": "Mini Search Engine with Inverted Index",
+  "description": "High-performance full-text search engine with inverted index, TF-IDF and BM25 ranking, phrase search, live latency benchmarks, and complete Python FastAPI/PostgreSQL architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
