@@ -1,4 +1,4 @@
-Live Link: https://mini-search-engine-with-inverted-index.ai.studio/
+Live Link:https://mini-search-engine-gc2p-rldfi62tn-bavaji12.vercel.app/
 # Mini Search Engine with Inverted Index
 
 A production-grade full-text search engine built with an **Inverted Index**, **Positional Postings**, **Okapi BM25**, and **TF-IDF Relevance Ranking**.
